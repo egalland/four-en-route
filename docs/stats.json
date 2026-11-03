@@ -1,0 +1,40 @@
+{
+  "updated": "2026-11-03",
+  "sourceFiles": [
+    {
+      "path": "src/app.ts",
+      "bytes": 9988,
+      "lines": 30
+    },
+    {
+      "path": "docs/index.html",
+      "bytes": 5135,
+      "lines": 1
+    },
+    {
+      "path": "docs/style.css",
+      "bytes": 16643,
+      "lines": 10
+    }
+  ],
+  "sourceBytes": 31766,
+  "sourceLines": 41,
+  "appBytes": 31766,
+  "versions": 2,
+  "runtimeDependencies": 0,
+  "maxTimers": 30,
+  "activeWorkMinutes": null,
+  "developerHoursEstimate": [
+    6,
+    10
+  ],
+  "hourlyRateEurosEstimate": [
+    50,
+    70
+  ],
+  "estimatedValueEuros": [
+    300,
+    700
+  ],
+  "method": "Lignes physiques HTML, CSS, TypeScript ; JavaScript généré exclu du comptage source. Code compact : les lignes ne reflètent pas la complexité. Poids applicatif non compressé hors page statistiques. Temps et coût estimés, non facturés et non mesurés."
+}
